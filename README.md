@@ -56,7 +56,4 @@ As you can see above the unwanted parts of the images are removed. In the first 
 <p align="center">
   <img src="https://github.com/crypto-code/Hopfield-Network/blob/master/assets/weights.png" align="middle"/> </p>
   
-# G00D LUCK
 
-For doubts email me at:
-atinsaki@gmail.com
